@@ -1,10 +1,11 @@
 {
   "template": "https://github.com/kjaymiller/cookiecutter-relecloud",
-  "commit": "972993b589b44e87780a333d6081776eea23af2c",
+  "commit": "a7ea908c4b190531faa473c98575da1b1ab3c7c1",
   "checkout": null,
   "context": {
     "cookiecutter": {
       "project_name": "Relecloud",
+      "python_version": "3.12",
       "project_backend": "django",
       "db_resource": "postgres-flexible",
       "project_host": "aca",
@@ -25,7 +26,8 @@
         "lstrip_blocks": true,
         "trim_blocks": true
       },
-      "_template": "https://github.com/kjaymiller/cookiecutter-relecloud"
+      "_template": "https://github.com/kjaymiller/cookiecutter-relecloud",
+      "_commit": "a7ea908c4b190531faa473c98575da1b1ab3c7c1"
     }
   },
   "directory": null,
