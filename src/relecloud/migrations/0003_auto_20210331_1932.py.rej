@@ -1,0 +1,9 @@
+diff a/src/relecloud/migrations/0003_auto_20210331_1932.py b/src/relecloud/migrations/0003_auto_20210331_1932.py	(rejected hunks)
+@@ -4,7 +4,6 @@ from django.db import migrations, models
+ 
+ 
+ class Migration(migrations.Migration):
+-
+     dependencies = [
+         ("relecloud", "0002_auto_20210330_2200"),
+     ]
